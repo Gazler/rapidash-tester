@@ -1,0 +1,4 @@
+source :rubygems
+
+gem "rapidash", :git => "git@github.com:Gazler/rapidash", :branch => :development
+gem "rspec"
